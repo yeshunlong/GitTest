@@ -1,2 +1,2 @@
 version - 1
-version - 2 - local to main
+version - 2 - main to local
